@@ -1,0 +1,16 @@
+1.시맨틱(semantic)태그의 의미 
+시맨틱(semantic)의 단어 뜻은 의미를 부여 했다는 뜻이다.
+HTML5에서는 태그만 보고도 문서를 쉽게 이해 할 수 있도록 의미를 가지는 태그를 도입 이것을 시맨틱 태그라한다.
+
+                                    div 
+
+  div id=wrap
+
+  div id=header                  header    nav 주메뉴에만 사용 
+
+  div id=main_img                section
+
+  div id=contents                section   article -> header, section, footer
+                                           aside
+
+  div id=footer                  footer    address
